@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "355451654920",
+    "firebase_url": "https://instituto-d0382.firebaseio.com",
+    "project_id": "instituto-d0382",
+    "storage_bucket": "instituto-d0382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355451654920:android:acd121ab439f07df0ed2bd",
+        "android_client_info": {
+          "package_name": "com.example.matricula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355451654920-92ickg63qpq9vgb538rsapuej5260hbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.matricula",
+            "certificate_hash": "9cb4aec060eae0d5f7da53e14e693d440c9c4ba6"
+          }
+        },
+        {
+          "client_id": "355451654920-8g25m23mkl9kuetp6ve5fejjo9tp0klh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKgZl1r5zE1ptUVvEenPf_wt0uCDVlhW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355451654920-8g25m23mkl9kuetp6ve5fejjo9tp0klh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
